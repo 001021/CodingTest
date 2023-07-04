@@ -1,2 +1,2 @@
-1. https://www.acmicpc.net/problem/10989
+1. https://www.acmicpc.net/problem/10828
 2. https://www.acmicpc.net/problem/26148
