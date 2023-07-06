@@ -1,8 +1,6 @@
 N = int(input())
 
 sortList = [0] * 100000
-indexList = []
-solveList = []
 
 result = ''
 
